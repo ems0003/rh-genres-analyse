@@ -1,4 +1,4 @@
-# 📊 Global HR & Unemployment Analytics
+# 📊 Analyses mondiales sur les ressources humaines et le chômage
 
 > Une exploration visuelle et automatisée des dynamiques mondiales du marché du travail (2015-2024).
 
